@@ -1,0 +1,24 @@
+{
+  "name": "entrance-task-3-2",
+  "version": "1.0.0",
+  "description": "В этом репозитории находятся материалы тестового задания по JavaScript для [14-й Школы разработки интерфейсов](https://academy.yandex.ru/events/frontend/shri_msk-2018-2) (осень 2018, Москва, Санкт-Петербург, Симферополь).",
+  "main": "suggestSchedule.js",
+  "scripts": {
+    "test": "mocha ./suggestTest/check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yandex-shri-2018/entrance-task-3-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yandex-shri-2018/entrance-task-3-2/issues"
+  },
+  "homepage": "https://github.com/yandex-shri-2018/entrance-task-3-2#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.3"
+  }
+}
